@@ -119,3 +119,7 @@
     flex-direction: column;
   }
 }
+
+h1.title{
+  font-family: Itim;
+}
